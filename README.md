@@ -1,8 +1,8 @@
 # Pascal compiler
 
-A C program that does lexical, syntax and some semantic analysis of Pascal programs.
+A C program that performs lexical, syntax and some semantic analysis of Pascal programs.
 It generates a Tokens text file and the parse tree in a XML file,
-and it displays lexical, syntax and some semantic errors if existent.
+And it displays lexical, syntax and some semantic errors if existent.
 
 # Usage
 Open the command prompt and execute Pascal_compiler.exe with a Pascal file's path as command line argument.
